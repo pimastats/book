@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/chapters/chapter1/index.html",
+      "/chapters/chapter2/index.html",
+      "/chapters/chapter3/index.html",
+      "/chapters/chapter4/index.html",
+      "/chapters/chapter5/index.html",
+      "/chapters/chapter6/index.html",
+      "/chapters/chapter7/index.html"
+    ]
+  }
+]

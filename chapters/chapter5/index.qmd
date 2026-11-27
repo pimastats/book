@@ -1,0 +1,14 @@
+---
+title: "Multiverse Analysis for Common Statistical Tests: Group Comparisons and Correlations"
+author:
+  - Gianmarco
+  - Massimiliano
+order: 5
+---
+
+::: {.callout-note}
+## Status
+
+Work in progress
+:::
+

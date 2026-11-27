@@ -1,0 +1,15 @@
+---
+title: "The Multiverse Story: History, Approaches, and a Unified Framework"
+author:
+  - Giulia
+  - Matteo
+  - Filippo
+order: 2
+---
+
+::: {.callout-note}
+## Status
+
+Work in progress
+:::
+

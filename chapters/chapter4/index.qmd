@@ -1,0 +1,15 @@
+---
+title: "Inferential Multiverse Analysis: Post-selection Inference with PIMA"
+author:
+  - Paolo
+  - Anna
+  - Livio (referente)
+order: 4
+---
+
+::: {.callout-note}
+## Status
+
+Work in progress
+:::
+

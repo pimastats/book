@@ -1,0 +1,15 @@
+---
+title: "Multiverse Meta-Analysis: Inference with PIMMA"
+author:
+  - Filippo
+  - Matteo
+  - Livio
+order: 6
+---
+
+::: {.callout-note}
+## Status
+
+Work in progress
+:::
+

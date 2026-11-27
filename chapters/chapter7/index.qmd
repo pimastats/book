@@ -1,0 +1,13 @@
+---
+title: "Practical Guidelines, Limitations, and Perspectives"
+author:
+  - Gianmarco
+order: 7
+---
+
+::: {.callout-note}
+## Status
+
+Work in progress
+:::
+

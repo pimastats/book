@@ -1,0 +1,16 @@
+---
+title: "Exploratory Multiverse Analysis: The Boston Housing Example"
+author:
+  - Paolo
+  - Anna
+  - Giulia
+  - Matteo
+order: 3
+---
+
+::: {.callout-note}
+## Status
+
+Work in progress
+:::
+

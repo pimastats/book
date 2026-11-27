@@ -1,0 +1,73 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "pima-book"
+  navbar:
+    left:
+      - href: index.qmd
+        text: home
+
+affiliations:
+  - id: unipd-dpss
+    name: University of Padova
+    department: Department of Developmental Psychology and Socialisation
+    city: Padova
+    country: Italy
+  - id: unipd
+    name: University of Padova
+    city: Padova
+    country: Italy
+  - id: unive-dais
+    name: Ca' Foscari University of Venice
+    department: Department of Environmental Sciences, Informatics and Statistics
+    city: Venezia
+    country: Italy
+  - id: unibo-stat
+    name: University of Bologna
+    department: Department of Statistical Sciences
+    city: Bologna
+    country: Italy
+
+author:
+  - name: Gianmarco Altoè
+    orcid: 0000-0003-1154-9528
+    affiliations:
+      - ref: unipd-dpss
+  - name: Giulia Calignano
+    orcid: 0000-0002-2913-8770
+    affiliations:
+      - ref: unipd-dpss
+  - name: Matteo Manente
+    orcid: 0009-0009-3246-3476
+    affiliations:
+      - ref: unipd-dpss
+  - name: Filippo Gambarota
+    orcid: 0000-0002-6666-1747
+    affiliations:
+      - ref: unipd-dpss
+  - name: Paolo Girardi
+    orcid: 0000-0001-8330-9414
+    affiliations:
+      - ref: unive-dais
+  - name: Anna Vesely
+    orcid: 0000-0001-6696-2390
+    affiliations:
+      - ref: unibo-stat
+  - name: Livio Finos
+    orcid: 0000-0003-3181-8078
+    affiliations:
+      - ref: unipd
+  - name: Massimiliano Pastore
+    orcid: 0000-0002-7922-6365
+    affiliations:
+      - ref: unipd-dpss
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true

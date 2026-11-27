@@ -1,0 +1,19 @@
+---
+title: "pima-book"
+listing:
+  id: chapters
+  contents: chapters/*/index.qmd
+  type: table
+  sort: "order"
+  fields: [order, title]
+  field-display-names:
+    order: "#"
+    title: "Chapter"
+  sort-ui: false
+  filter-ui: false
+---
+
+## Chapters
+
+::: {#chapters}
+:::
